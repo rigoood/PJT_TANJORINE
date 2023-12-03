@@ -35,8 +35,6 @@
     ![Alt text](./READMEIMAGE/exchangeRate1.png)
     ![Alt text](./READMEIMAGE/exchangeRate2.png)
     - 은행 검색
-
-
     ![Alt text](./READMEIMAGE/map.png)
 
 ## 상품추천 알고리즘에 대한 설명
