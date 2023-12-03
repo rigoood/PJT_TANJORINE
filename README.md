@@ -24,6 +24,7 @@
     - 댓글 기능 포함
     - 작성자 본인만 삭제 및 수정 가능(관리자 제외)
     - 카테고리별 관리 가능
+    
     ![Alt text](./READMEIMAGE/community1.png)
     ![Alt text](./READMEIMAGE/community2.png)
     ![Alt text](./READMEIMAGE/community3.png)
@@ -32,9 +33,11 @@
 
 - 기타 기능
     - 환율 검색
+    
     ![Alt text](./READMEIMAGE/exchangeRate1.png)
     ![Alt text](./READMEIMAGE/exchangeRate2.png)
     - 은행 검색
+  
     ![Alt text](./READMEIMAGE/map.png)
 
 ## 상품추천 알고리즘에 대한 설명
