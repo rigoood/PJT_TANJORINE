@@ -35,7 +35,7 @@
     ![Alt text](./READMEIMAGE/exchangeRate1.png)
     ![Alt text](./READMEIMAGE/exchangeRate2.png)
     - 은행 검색
-    <img src='./READMEIMAGE/map.png' width='1200' alt='내주변은행찾기'>
+
 
     ![Alt text](./READMEIMAGE/map.png)
 
