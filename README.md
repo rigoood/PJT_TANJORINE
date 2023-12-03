@@ -36,7 +36,8 @@
     ![Alt text](./READMEIMAGE/exchangeRate2.png)
     - 은행 검색
     <img src='./READMEIMAGE/map.png' width='1200' alt='내주변은행찾기'>
-    - ![Alt text](./READMEIMAGE/map.png)
+
+    ![Alt text](./READMEIMAGE/map.png)
 
 ## 상품추천 알고리즘에 대한 설명
 - 저희 텐조린의 알고리즘은 상품을 추천받을 사용자를 기준으로 모든 상품에 대한 평가를 진행하여 고평가받은 상품들을 순차적으로 보여줍니다.
